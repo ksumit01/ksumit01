@@ -19,7 +19,7 @@
 </p>
 
 <p align="left">
-<a href="ksumit01.github.io/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/252/252336.png" width="40" alt="Portfolio"/></a>
+<a href="https://ksumit01.github.io/#home" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/252/252336.png" width="40" alt="Portfolio"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
